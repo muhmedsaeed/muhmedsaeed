@@ -15,6 +15,8 @@
 
 ### 🚀 About Me
 
+<img align="right" src="https://camo.githubusercontent.com/41935d0f324d6684b781fbd9c63e622d0535df53f8e248ef81bebbffc637188d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="35%" />
+
 - 🎓 Recent graduate of **ITI (Information Technology Institute) — Intake 46**, Web Development Track (.NET & Angular)
 - 💻 Passionate about building clean, scalable full-stack web applications
 - 🤖 Working with **RAG Systems, LLM Integration, AI APIs**
@@ -22,11 +24,14 @@
 - 🌍 Based in **Cairo, Egypt** — open to relocation internationally
 - 🗣️ Fluent in Arabic and English
 - 📈 Actively solving DSA problems on LeetCode in **C#** and **Java**
+
+<br clear="right"/>
+
 ---
 
 ### 🛠️ Tech Stack
  
-**Languages**
+
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -36,7 +41,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**Backend & Frameworks**
+
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -45,7 +50,7 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-**Frontend**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -54,7 +59,7 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
-**Databases**
+
 <p align="left">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -62,7 +67,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-**Tools**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
